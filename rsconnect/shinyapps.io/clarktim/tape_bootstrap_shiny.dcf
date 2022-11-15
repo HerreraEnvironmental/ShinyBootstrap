@@ -1,0 +1,14 @@
+name: tape_bootstrap_shiny
+title: tape_bootstrap_shiny
+username:
+account: clarktim
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7636455
+bundleId: 6517440
+url: https://clarktim.shinyapps.io/tape_bootstrap_shiny/
+when: 1668540275.78659
+lastSyncTime: 1668540275.7866
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Copy of TAPE BootStrap CI Calculator 2011 07 26.xls|README.md
